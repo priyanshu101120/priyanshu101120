@@ -109,7 +109,7 @@ I'm a **frontend-focused developer** currently pursuing my graduation from **Lov
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu101120&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu101120&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=priyanshu101120&theme=dark&hide_border=false)
 
@@ -131,7 +131,7 @@ I'm a **frontend-focused developer** currently pursuing my graduation from **Lov
 
 ## 🔝 Top Contributed Repos
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=priyanshu101120&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![BizLink](https://github-readme-stats.vercel.app/api/pin/?username=priyanshu101120&repo=Bizlink&theme=radical)](https://github.com/priyanshu101120/Bizlink)
 
 ---
 
