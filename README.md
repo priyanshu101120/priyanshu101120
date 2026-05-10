@@ -60,7 +60,6 @@ AI-powered task manager with a glassmorphism UI. Built **solo** — boards, auth
 **Key highlights:**
 - 🤖 AI assistant auto-generates sub-tasks & archives done work
 - 🔐 Supabase Auth with SSR middleware for route protection
-- 🗂️ Drag-and-drop Kanban boards with custom columns
 - 🚀 Deployed on Vercel
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
