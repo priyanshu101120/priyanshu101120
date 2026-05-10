@@ -52,6 +52,26 @@ Multi-tenant B2B inventory & networking platform for wholesalers and retailers. 
 [🌐 Live Demo](https://bizlink-two.vercel.app/) · [📂 Source Code](https://github.com/priyanshu101120/Bizlink)
 
 </td>
+Profile README mein sirf ek block add karna hai. Yeh le — exact same style mein Taskora ka card:
+markdown<td width="50%" valign="top">
+
+### ✦ Taskora
+AI-powered Kanban task manager with a glassmorphism UI. Built **solo** — boards, auth, AI assistant, and deployment.
+
+**Key highlights:**
+- 🤖 AI assistant auto-generates sub-tasks & archives done work
+- 🔐 Supabase Auth with SSR middleware for route protection
+- 🗂️ Drag-and-drop Kanban boards with custom columns
+- 🚀 Deployed on Vercel
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn_UI-000?style=flat)
+
+[🌐 Live Demo](https://taskora-beta.vercel.app) · [📂 Source Code](https://github.com/priyanshu101120/TASKORA)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
