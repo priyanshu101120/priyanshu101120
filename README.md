@@ -2,7 +2,7 @@
 
 # Hey, I'm Priyanshu Singh 👋
 
-### Frontend Developer · Building real products with modern web tech
+### Full Stack Developer · Building real products with modern web tech
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-priiyanshu.me-black?style=for-the-badge)](https://priiyanshu.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-singh-452459360/)
@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 
-I'm a **frontend-focused developer** pursuing graduation from **Lovely Professional University**. I don't just learn — I build.
+I'm a **full-stack developer** pursuing graduation from **Lovely Professional University**. I don't just learn — I build.
 
 - 🔭 Currently building full-stack apps with **Next.js, Express & MongoDB**
 - 🌱 Deepening skills in **React Query, TypeScript & backend API design**
@@ -185,7 +185,7 @@ Personal portfolio showcasing projects, skills, and experience — built with Ne
 
 <div align="center">
 
-### 💬 Open to internships and entry-level frontend/SDE roles!
+### 💬 Open to internships and entry-level full-stack/SDE roles!
 
 [![Portfolio](https://img.shields.io/badge/🌐_priiyanshu.me-Visit_My_Portfolio-black?style=for-the-badge)](https://priiyanshu.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-singh-452459360/)
