@@ -219,7 +219,17 @@ A complete e-commerce practice application built to explore product APIs, Redux 
 
 ---
 
+---
+
 <h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/priyanshu101120/priyanshu101120/main/art/social-media-dark.png"
+    alt="Let's Connect"
+    width="100%"
+  />
+</p>
 
 <p align="center">
 
