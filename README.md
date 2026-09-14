@@ -1,7 +1,18 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:8B7CFF,100:4F46E5&height=180&section=header&text=Priyanshu%20Singh&fontSize=48&fontColor=FFFFFF&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:8B7CFF,100:4F46E5&height=180&section=header&text=Priyanshu%20Singh&fontSize=48&fontColor=FFFFFF&animation=fadeIn" alt="Priyanshu Singh Banner" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/priyanshu101120/priyanshu101120/main/art/header-dark.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/priyanshu101120/priyanshu101120/main/art/header-light.png"
+    />
+    <img
+      src="https://raw.githubusercontent.com/priyanshu101120/priyanshu101120/main/art/header-light.png"
+      alt="Priyanshu Singh"
+      width="100%"
+    />
   </picture>
 </p>
 
