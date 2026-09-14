@@ -192,12 +192,24 @@ A complete e-commerce practice application built to explore product APIs, Redux 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu101120&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu101120&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=priyanshu101120&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu101120&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu101120&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=priyanshu101120&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -205,7 +217,10 @@ A complete e-commerce practice application built to explore product APIs, Redux 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu101120&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=priyanshu101120&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -213,7 +228,11 @@ A complete e-commerce practice application built to explore product APIs, Redux 
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu101120&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu101120&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
