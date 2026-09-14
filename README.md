@@ -198,11 +198,6 @@ A complete e-commerce practice application built to explore product APIs, Redux 
     height="180"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu101120&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
 </p>
 
 <p align="center">
