@@ -1,193 +1,259 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:8B7CFF,100:4F46E5&height=180&section=header&text=Priyanshu%20Singh&fontSize=48&fontColor=FFFFFF&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:8B7CFF,100:4F46E5&height=180&section=header&text=Priyanshu%20Singh&fontSize=48&fontColor=FFFFFF&animation=fadeIn" alt="Priyanshu Singh Banner" width="100%">
+  </picture>
+</p>
 
-# Hey, I'm Priyanshu Singh 👋
+<h1 align="center">
+  Hey there, I'm <span style="color:#6D5DFB;">Priyanshu</span> 👋
+</h1>
 
-### Full Stack Developer · Building real products with modern web tech
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=6D5DFB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;React+%26+Next.js+Builder;Building+Real+Products;Problem+Solver;Always+Learning"/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-priiyanshu.me-black?style=for-the-badge)](https://priiyanshu.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-singh-452459360/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/priyanshu101120)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thoughtsfullines)
-
-<img src="https://komarev.com/ghpvc/?username=priyanshu101120&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-
-</div>
-
----
-
-## 💫 About Me
-
-I'm a **full-stack developer** pursuing graduation from **Lovely Professional University**. I don't just learn — I build.
-
-- 🔭 Currently building full-stack apps with **Next.js, Express & MongoDB**
-- 🌱 Deepening skills in **React Query, TypeScript & backend API design**
-- 💼 Actively looking for **internship or entry-level SDE/frontend roles**
-- 🧠 I learn by shipping — every project teaches me something new
-- ⚡ I care about **clean code, real-world impact, and fast delivery**
-
-> *"As a fresher, I don't rely on just theory — I learn by building things that actually work in production."*
+<p align="center">
+  <img src="https://img.shields.io/github/followers/priyanshu101120?style=for-the-badge&logo=github&label=Followers&color=6D5DFB" />
+  <img src="https://img.shields.io/github/stars/priyanshu101120?style=for-the-badge&logo=github&label=Stars&color=6D5DFB" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshu101120&style=for-the-badge&color=6D5DFB&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">👨‍💻 About Me</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
 
-### 🔗 BizLink
-Multi-tenant B2B inventory & networking platform for wholesalers and retailers. Built **solo** — frontend, backend, schema, auth, and deployment.
+<td width="65%" valign="top">
 
-**Key highlights:**
-- ⚡ Real-time stock sync via Supabase Realtime
-- 🔒 Row Level Security — zero cross-tenant exposure
-- 👥 Role-based dashboards (Wholesaler & Retailer)
-- 🚀 Deployed on Vercel
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn_UI-000?style=flat)
-
-[🌐 Live Demo](https://bizlink-two.vercel.app/) · [📂 Source Code](https://github.com/priyanshu101120/Bizlink)
+* 💻 Full Stack Developer focused on building modern, scalable web applications.
+* ⚛️ Strong interest in **React, Next.js, TypeScript & frontend architecture**.
+* 🚀 Building real-world products instead of just tutorial projects.
+* 🧠 Learning by building — from UI and state management to APIs, authentication and databases.
+* 🎯 Currently looking for **internship and entry-level software/frontend opportunities**.
+* ⚡ I care about **clean code, performance, user experience and solving real problems**.
+* 🌌 Always exploring new ideas and turning them into working products.
 
 </td>
-<td width="50%" valign="top">
 
-### ✦ Taskora
-AI-powered task manager with a glassmorphism UI. Built **solo** — custom Express + MongoDB backend, JWT auth with OTP email verification, boards/columns/tasks, AI assistant, and deployment across two platforms.
+<td width="35%" align="center" valign="middle">
 
-**Key highlights:**
-- 🤖 AI assistant auto-generates sub-tasks & archives done work
-- 🔐 Self-built REST API — JWT auth (httpOnly cookies) + OTP email verification via Brevo
-- 🗂️ Full CRUD for boards, columns & tasks with ownership checks and cascade deletes
-- 🚀 Frontend on Vercel, backend on Railway (MongoDB Atlas)
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn_UI-000?style=flat)
-
-[🌐 Live Demo](https://taskora-beta.vercel.app) · [📂 Source Code](https://github.com/priyanshu101120/TASKORA)
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Developer illustration" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and experience — built with Next.js and deployed on Vercel.
-
-**Key highlights:**
-- 🎨 Clean, modern design
-- 📱 Fully responsive
-- ⚡ Optimized performance
-- 🚀 Deployed on Vercel
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
-
-[🌐 Live](https://priiyanshu.me) · [📂 Source Code](https://github.com/priyanshu101120)
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">🚀 Featured Projects</h2>
 
-**Languages**
+<table>
+<tr>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<td width="50%" valign="top">
 
-**Frameworks & Libraries**
+<h3>🔗 BizLink</h3>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+<p>
+A multi-tenant B2B inventory synchronization platform connecting wholesalers and retailers through real-time stock updates.
+</p>
 
-**Styling**
+<b>Key highlights:</b>
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+* ⚡ Real-time inventory synchronization
+* 👥 Separate wholesaler & retailer workflows
+* 🔐 Authentication and role-based access
+* 🏢 Multi-tenant data architecture
+* 🔒 Row Level Security with Supabase
+* 📦 Product CRUD & retailer connections
+* 🚀 Deployed on Vercel
 
-**Backend & Database**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://bizlink-two.vercel.app/">🌐 Live Demo</a> · <a href="https://github.com/priyanshu101120/Bizlink">📂 Source Code</a>
 
-**Tools & Deployment**
+</td>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<td width="50%" valign="top">
+
+<h3>✦ Taskora</h3>
+
+<p>
+An AI-powered task management application designed around boards, columns, tasks and intelligent task automation.
+</p>
+
+<b>Key highlights:</b>
+
+* 🤖 AI-assisted task generation and automation
+* 🔐 JWT authentication with HTTP-only cookies
+* 📧 OTP-based email verification
+* 🗂️ Boards, columns and task management
+* 🔒 Ownership checks and protected APIs
+* 🧩 Custom Express backend
+* 🗄️ MongoDB persistence
+* 🚀 Frontend and backend deployed separately
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
+
+<a href="https://taskora-beta.vercel.app">🌐 Live Demo</a> · <a href="https://github.com/priyanshu101120/TASKORA">📂 Source Code</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>◈ Nexus</h3>
+
+<p>
+A modern full-stack project management platform focused on structured workspaces, projects, boards and collaborative workflows.
+</p>
+
+<b>Key highlights:</b>
+
+* 🏢 Workspace-based architecture
+* 📁 Project management
+* 📋 Kanban-style boards
+* 🔐 Secure authentication
+* 👥 Workspace & member management
+* ⚡ REST API architecture
+* 🗄️ PostgreSQL + Prisma
+* 🧩 TypeScript backend
+* 🎨 Modern responsive UI
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛒 Cartora</h3>
+
+<p>
+A complete e-commerce practice application built to explore product APIs, Redux state management, authentication flows and persistent cart functionality.
+</p>
+
+<b>Key highlights:</b>
+
+* 🛍️ Product & grocery browsing
+* 🛒 Persistent shopping cart
+* ➕ Quantity & pricing management
+* 💾 LocalStorage persistence
+* 🔄 Redux state management
+* 🔐 Authentication flow
+* 📱 Responsive interface
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-Integration-6D5DFB?style=flat"/>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">💻 Tech Stack</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanshu101120&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyanshu101120&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,tailwind,postgres,mongodb,prisma,git,github,vercel,vscode,figma,postman&perline=10"/>
+</p>
 
-<div align="center">
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu101120&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu101120&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu101120&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu101120&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu101120&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu101120&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+</p>
 
 ---
 
-## 📌 Pinned Repo
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <a href="https://github.com/priyanshu101120/Bizlink">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=priyanshu101120&repo=Bizlink&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu101120/priyanshu101120/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🌐 Let's Connect</h2>
 
-### 💬 Open to internships and entry-level full-stack/SDE roles!
+<p align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_priiyanshu.me-Visit_My_Portfolio-black?style=for-the-badge)](https://priiyanshu.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-singh-452459360/)
+<a href="https://priiyanshu.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D5DFB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/priyanshu-singh-452459360/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/priyanshu101120">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/thoughtsfullines">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Shipping. Repeating.</i> 🚀
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:8B7CFF,100:4F46E5&height=140&section=footer"/>
+</p>
