@@ -214,29 +214,6 @@ A complete e-commerce practice application built to explore product APIs, Redux 
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=priyanshu101120&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu101120&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
