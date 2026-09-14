@@ -55,7 +55,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Developer illustration" />
+<img src="https://raw.githubusercontent.com/priyanshu101120/priyanshu101120/main/art/photo-card" width="160" alt="Developer illustration" />
 
 </td>
 
